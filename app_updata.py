@@ -120,7 +120,7 @@ if page == "Project Overview":
 
     c1, c2, c3 = st.columns(3)
     with c1:
-        st.metric("Project Folder", str(PROJECT_DIR))
+        st.metric("Project Folder", str(BASE_DIR))
     with c2:
         st.metric("Dataset Loaded", "Yes" if df is not None else "No")
     with c3:
