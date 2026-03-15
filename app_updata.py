@@ -85,7 +85,7 @@ except Exception as e:
     load_error = str(e)
 
 df = load_dataset(DATA_PATH)
-project_images = get_project_images(PROJECT_DIR)
+project_images = get_project_images(BASE_DIR)
 
 # =========================
 # Sidebar
