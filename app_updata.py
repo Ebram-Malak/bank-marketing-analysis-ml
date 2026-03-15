@@ -12,7 +12,7 @@ import subprocess
 # =========================
 PROJECT_DIR = Path(r"https://github.com/Ebram-Malak/bank-marketing-analysis-ml")
 DATA_PATH = Path(r"bank_customers_train.csv")
-MODEL_PATH = PROJECT_DIR / "final_model.pkl"
+MODEL_PATH = PROJECT_DIR / "blob/main/final_model.pkl"
 
 IMAGE_EXTENSIONS =  {".png", ".jpg", ".jpeg", ".webp", ".jfif"}
 
