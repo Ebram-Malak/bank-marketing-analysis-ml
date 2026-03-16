@@ -118,7 +118,7 @@ if page == "Project Overview":
     else:
         st.info(f"No images found in: {PROJECT_DIR}")
 
-    c1, c2 = st.columns(3)
+    c1, c2 = st.columns(2)
     with c1:
         st.metric("Dataset Loaded", "Yes" if df is not None else "No")
     with c2:
