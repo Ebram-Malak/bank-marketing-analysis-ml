@@ -1,0 +1,16 @@
+
+
+App_link :
+
+
+       https://bank-marketing-analysis-ml-h2ihw3wvzprfusubgvqbyu.streamlit.app
+
+
+Video_link :
+
+
+       https://drive.google.com/file/d/1WWNDMPcnoMl_NHzKaI2HpAnxgOjDVrbf/view?usp=sharing
+  
+
+    
+ 
